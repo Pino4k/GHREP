@@ -8,5 +8,6 @@ public class ejemplo1 {
 		int num=5984;
 		
 		System.out.println("prueba github");
+		String variable="String definida en github";
 	}
 }
